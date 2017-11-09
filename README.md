@@ -1,4 +1,6 @@
 "# CrusaderBot" 
+Crusader Bot takes control of your mouse and keyboard and plays Crusader of the Lost Idols for you. Move your mouse into the upper left corner (0,0) to get it to quit. 
+
 In order to get this program working you are going to need to install python, and the pyautogui package:
 
 It is currently designed to run against the Kongregate client in full screen. If you are having problems getting this
